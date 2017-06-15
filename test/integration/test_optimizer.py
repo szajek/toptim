@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from toptim.optimizer import create_optimizer
+from optimizer import create_optimizer
 
 
 """

@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from toptim.optimizer import ParametersSet, create_engine
+from optimizer import ParametersSet, create_engine
 
 
 class ParametersSetTest(unittest.TestCase):
